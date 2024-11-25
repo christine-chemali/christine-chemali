@@ -6,6 +6,7 @@
                     font-size: 3rem;
                     text-align: left;
                     margin-top: 10px;
+                    margin-right: 10 px;
                     margin-bottom: 0px;
                     }
                 .container {
