@@ -1,35 +1,8 @@
-<!--## Hi I'm Chris 👋
-
-**christine-chemali/christine-chemali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content=" ">
-        <meta name="keywords" content="Project, Profile, Education, Skills, Languages, Development, Portfolio, Contributors, Technologies">
-        <meta name="author" content="Christine Chemali">
-        <meta name="robots" content="index, follow">
-        <meta property="og:title" content="Christine Chemali Github Profile">
-        <meta property="og:description" content="All about my Github projects contributions">
-        <meta property="og:type" content="Github profile">
-        <meta property="og:url" content="https://github.com/christine-chemali">
-        <meta property="og:image" content=".jpg">
-        <title>Christine Chemali Github Profile</title>
-        <style>
-            @font-face {
+<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+       @font-face {
             font-family: "lemon";
             src: url('./Media/fonts/LEMONMILK-Bold.otf') format('opentype');
             font-weight: normal;
@@ -56,11 +29,10 @@ Here are some ideas to get you started:
                     width:auto;
                 }
             }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <main class="container">
+    </style>
+    <div class='body'>
+      <div class='container'>
+       <main class="container">
                 <section class="block">
                     <h1 class="title">PROFILE</h1>
                     <p>Enthusiastic and motivated aspiring developer bulding a strong foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages/technologies and eager to apply knowledge in a real-world setting. Seeking an entry-level position to contribute to a dynamic team and grow professionally.</p>
@@ -116,14 +88,8 @@ Here are some ideas to get you started:
                     <a id="github-streak" class="stats" aria-label="christine-chemali's Streak" href="https://github-readme-streak-stats.herokuapp.com/?user=christine-chemali&theme=vue-dark&hide_border=false"></a>
                     <a id="github-languages" class="languages" aria-label="christine-chemali's Top Languages" href="https://github-readme-stats.vercel.app/api/top-langs/?username=christine-chemali&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"></a>
             </section>
-        </div>
-        <footer>
-        </footer>
-    </body>
-</html>
--->
-<div style="width: 100%;">
-  <a href=" https://github.com/christine-chemali/christine-chemali/blame/main/profile.svg">
-    <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+      </div>
+    </div>
+  </div>
+  </foreignObject>
+</svg>
