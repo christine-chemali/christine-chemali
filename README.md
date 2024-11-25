@@ -127,3 +127,35 @@ Here are some ideas to get you started:
     <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+            <section class="block">
+                <h2 class="title">LANGUAGES</h2>
+                    <span>EN - FR - BR / STILL AND ALWAYS LEARNING:</span><br><br>
+                    <img class="lang" src="./Media/pictures/html.png" alt="HTML">
+                    <img class="lang" src="./Media/pictures/css.png" alt="CSS">
+                    <img class="lang" src="./Media/pictures/python.png" alt="PYTHON">
+            </section>
+            <section class="block">
+                <h2 class="title">CONTRIBUTIONS</h2>
+                <span>Nothing Yet ... But Working On It</span>
+            </section>
+            <section class= "block">
+                <h2 class="title">PROJECTS</h2>
+                <span>TOP 2 OF MY FAVORITE:</span><br>
+                <a class="textlink" href="https://github.com/christine-chemali/FansiteMJN" target="_blank" aria-label="link to Christine Chemali's first favorite project : Fansite">JINX FANSITE</a><br>
+                <a class="textlink" href="https://github.com/christine-chemali/TicTacToe" target="_blank" aria-label="link to Christine Chemali's second favorite project : Tic Tac Toe">TIC TAC TOE GAME</a>
+            </section>
+            <section class="block">
+                <h2 class="title">PORTFOLIO</h2>
+                <span> Here's the link to my Portfolio! Hope you'll enjoy the trip as I enjoy the journey </span><br>
+                <a class="textlink" href="#porfolio" target="_blank" aria-label="Link to Christine Chemali's Portfolio">PORTFOLIO</a>
+            </section>
+            <section class="block">
+                <h2 class="title">NETWORKS</h2>
+                    <a class="icon" href="https://www.linkedin.com/in/christine.chemali" target="_blank" aria-label="Link to Christine Chemali's Linkedin account"><img class="in" src="./Media/pictures/linkedin.png" alt="IN"></a>
+            </section>
+            <section class="block">
+                <h2 class="title">STATS</h2>
+                    <a id="github-stats" class="stats" aria-label="christine-chemali's Stats" href="https://github-readme-stats.vercel.app/api?username=christine-chemali&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"></a>
+                    <a id="github-streak" class="stats" aria-label="christine-chemali's Streak" href="https://github-readme-streak-stats.herokuapp.com/?user=christine-chemali&theme=vue-dark&hide_border=false"></a>
+                    <a id="github-languages" class="languages" aria-label="christine-chemali's Top Languages" href="https://github-readme-stats.vercel.app/api/top-langs/?username=christine-chemali&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"></a>
+            </section>
