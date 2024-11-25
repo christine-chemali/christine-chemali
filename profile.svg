@@ -3,9 +3,9 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .title {
-                    font-size: 3rem;
+                    font-size: 3 rem;
                     text-align: center;
-                    margin:10px;
+                    margin:10 px;
                     }
                 .container {
                     display:flex;
@@ -14,23 +14,21 @@
                     justify-content:center;
                     color: white;
                     font-family: "Open Sans", sans-serif;
-                    border: 3px solid white;
+                    border: 3 px solid white;
                     border-radius: 10px;
                     padding : 10 px;
-                    margin: 0px;
+                    margin: 0 px;
                     }
                 p {
-                    font-size: 18px;
-                    margin: 10px;
+                    font-size: 18 px;
+                    margin: 10 px;
                 }
             </style>
             <div class='body'>
                 <div class='container'>
                     <section class="block">
                         <h1 class="title">Hi! I'm an enthusiastic </h1>
-                        <p>and motivated aspiring developer bulding a strong foundation in programming and a keen interest in learning new technologies. 
-                        <br>Currently honing skills in software languages/technologies and eager to apply knowledge in a real-world setting. 
-                        <br>Seeking an entry-level position to contribute to a dynamic team and grow professionally.</p>
+                        <p>and motivated aspiring developer bulding a strong foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages/technologies and eager to apply knowledge in a real-world setting. Seeking an entry-level position to contribute to a dynamic team and grow professionally.</p>
                     </section>
                 </div>
             </div>
