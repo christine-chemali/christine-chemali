@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 </html>
 -->
 <div style="width: 100%;">
-  <a href=" https://github.com/christine-chemali/christine-chemali/blame/main/profile.svg">
+  <a href="https://github.com/christine-chemali/christine-chemali/blame/main/profile.svg">
     <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
