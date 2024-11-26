@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=christine-chemali&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-chemali&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 💫 ABOUT:
+# 🙄
 <br>
 🔭 I’m currently working on building an intergalactic app that connects developers across the universe! Who says coding can’t be out of this world?
 <br>
@@ -45,6 +45,3 @@ Here are some ideas to get you started:
 <br>
 ⚡ Fun fact: I once tried to code a chatbot that would only tell dad jokes.
 <br>
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

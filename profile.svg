@@ -9,7 +9,6 @@
                     justify-content:center;
                     background: #000;
                     color: #F4E9E1;
-
                     }
                 @keyframes title {
                     0%, 100% { clip: rect(0, 600px, 50px, 0); }
@@ -18,23 +17,28 @@
                     60% { clip: rect(5px, 600px, 20px, 0); }
                     80% { clip: rect(15px, 600px, 35px, 0); }
                     }
-                .title {
+                .title, .title1 {
                     font-size: 3rem;
                     animation: title 1s infinite;
                     text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA;
                     text-align: left;
-                    padding-left-: 10px;
+                    padding-left: 10px;
                     margin-left: 10px;
-                    margin-bottom: 0px;
                     margin-top: 0px;
                     }
+                .title {
+                    margin-bottom: 0px;
+                    }
+                .title1 {
+                    margin-bottom: 10px;
+                }
             </style>
             <div class='body'>
                 <div class='container'>
                     <section class="block">
                         <p class="title">HELLO!</p>
                         <p class="title">I'm an enthusiastic</p>
-                        <p class="title">and motivated aspiring developer bulding a strong</p>
+                        <p class="title1">and motivated aspiring developer bulding a strong</p>
                     </section>
                 </div>
             </div>
