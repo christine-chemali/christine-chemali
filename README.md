@@ -4,22 +4,24 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🙄 Pfffff ...
+- 🔭 I’m currently working on ... building an intergalactic app that connects developers across the universe! Who says coding can’t be out of this world?
+- 🌱 I’m currently learning ... the magic of quantum computing and how to make the perfect cup of coffee simultaneously. Multi-tasking level: expert!
+- 👯 I’m looking to collaborate on ... a quirky open-source project that combines AI and art.
+- 🤔 I’m looking for help with ... debugging a time-traveling algorithm. It keeps sending me to 1990 instead of 3023. 
+- 💬 Ask me about ... the moon...
+- 📫 How to reach me: ... 👆
+- 😄 Pronouns: ... S
+- ⚡ Fun fact: ... I once tried to code a chatbot that would only tell dad jokes.
 -->
-<div style="width: 100%; background: #000; border-radius: 10px;">
+<div style="width: 100%;">
     <a href="https://github.com/christine-chemali/christine-chemali/blame/main/profile.svg">
         <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
     </a>
     <p align="center">
-      <a href="https://www.christine-chemali.fr/">PORTFOLIO</a> •
-      <a href="mailto:christine.chemali@laplateforme.io">E-MAIL</a> •
+      <a href="https://www.christine-chemali.fr/">PORTFOLIO</a>🔹  
+      <a href="https://#cv">CV</a>🔹  
+      <a href="mailto:christine.chemali@laplateforme.io">E-MAIL</a>🔹  
       <a href="https://linkedin.com/in/christine-chemali">LINKEDIN</a>
     </p>
 </div>
@@ -33,18 +35,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=christine-chemali&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=christine-chemali&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=christine-chemali&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🙄
-<br>
-🔭 I’m currently working on building an intergalactic app that connects developers across the universe! Who says coding can’t be out of this world?
-<br>
-👯 I’m looking to collaborate on a quirky open-source project that combines AI and art.
-<br>
-🤝 I’m looking for help with debugging a time-traveling algorithm. It keeps sending me to 1990 instead of 3023. 
-<br>
-🌱 I’m currently learning the magic of quantum computing and how to make the perfect cup of coffee simultaneously. Multi-tasking level: expert!
-<br>
-💬 Ask me about the moon...
-<br>
-⚡ Fun fact: I once tried to code a chatbot that would only tell dad jokes.
-<br>
