@@ -28,9 +28,9 @@
             <div class='body'>
                 <div class='container'>
                     <section class="block">
-                        <span class="title">HELLO!</span><br> 
-                        <span class="title">I'm an enthusiastic</span><br>
-                        <span class="title">and motivated aspiring developer</span>
+                        <p class="title">HELLO!</p>
+                        <p class="title">I'm an enthusiastic</p>
+                        <p class="title">and motivated aspiring developer</p>
                     </section>
                 </div>
             </div>
