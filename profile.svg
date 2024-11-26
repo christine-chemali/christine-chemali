@@ -22,7 +22,8 @@
                     animation: glitch 1s infinite;
                     text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA;
                     text-align: left;
-                    padding: 10px;
+                    padding-left-: 10px;
+                    margin:0px;
                     }
             </style>
             <div class='body'>
