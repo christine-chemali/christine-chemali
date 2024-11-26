@@ -2,49 +2,35 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                .title {
-                    font-size: 3rem;
-                    text-align: left;
-                    margin-top: 10px;
-                    margin-right: 10 px;
-                    margin-bottom: 0px;
-                    }
                 .container {
                     display:flex;
                     flex-direction:row;
                     flex-wrap:wrap;
                     justify-content:center;
-                    color: white;
-                    font-family: "Open Sans", sans-serif;
-                    border: 3px solid white;
-                    border-radius: 10px;
-                    padding : 10px;
-                    margin: 0px;
-                    background: radial-gradient(100% 288.36% at 0% 100%, rgba(19, 243, 149, 0.7) 0%, rgba(203, 255, 205, 0) 100%), radial-gradient(100% 288.36% at 0% 0%, rgba(36, 20, 224, 0.5) 0%, rgba(42, 31, 175, 0) 100%, rgba(214, 223, 255, 0) 100%), radial-gradient(100% 160.84% at 100% 0%, #FF2C54 0%, rgba(255, 243, 243, 0) 100%), radial-gradient(100.42% 289.56% at 100% 99.29%, rgba(255, 230, 0, 0.7) 0%, rgba(255, 219, 0, 0) 100%), #0057FF;
-                	background-size: 200% 200%;
-            		animation: Gradient 15s ease infinite;
+                    background: #000;
+                    color: #F4E9E1;
                     }
-                @keyframes Gradient {
-                        0% {
-                            background-position: 0% 50%
-                            }
-                        50% {
-                            background-position: 100% 50%
-                            }
-                        100% {
-                            background-position: 0% 50%
-                            }
+                     @keyframes title {
+                        0%, 100% { clip: rect(0, 600px, 50px, 0); }
+                        20% { clip: rect(10px, 600px, 30px, 0); }
+                        40% { clip: rect(20px, 600px, 40px, 0); }
+                        60% { clip: rect(5px, 600px, 20px, 0); }
+                        80% { clip: rect(15px, 600px, 35px, 0); }
                     }
-                p {
-                    font-size: 18px;
-                    margin: 10px;
-                }
+                    .title {
+                        font-size: 3rem;
+                        animation: glitch 1s infinite;
+                        text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA;
+                        text-align: left;
+                        margin: 10px;
+                    }
             </style>
             <div class='body'>
                 <div class='container'>
                     <section class="block">
-                        <h1 class="title">Hi! I'm an enthusiastic </h1>
-                        <p>and motivated aspiring developer bulding a strong foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages/technologies and eager to apply knowledge in a real-world setting. Seeking an entry-level position to contribute to a dynamic team and grow professionally.</p>
+                        <h1 class="title">HELLO!<br> 
+                        I'm an enthusiastic<br>
+                        and motivated aspiring developer</h1>
                     </section>
                 </div>
             </div>
