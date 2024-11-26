@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width: 100%;">
+<div style="width: 100%; background: #000; border-radius: 10px; margin-bottom: 10px">
   <a href="https://github.com/christine-chemali/christine-chemali/blame/main/profile.svg">
     <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
   </a>
+  <p style="color: #F4E9E1; font-size: 2rem; text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA; text-align: left; padding-left: 10px; margin-left: 10px; margin-top: 0px;">foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages/technologies and eager to apply knowledge in a real-world setting.<br>Seeking an entry-level position to contribute to a dynamic team and grow professionally.</p>
+  <a style="font-size: 1.5rem; padding: 20px;" href="https://linkedin.com/in/christine-chemali"> LinkedIn </a><a style="font-size: 1.5rem; padding: 20px; " href="mailto:christine.chemali@laplateforme.io"> E-mail </a>
 </div>
 
- ## foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages - technologies and eager to apply knowledge in a real-world setting. <br>Seeking an entry-level position to contribute to a dynamic team and grow professionally.
-
-[![](https://visitcount.itsvg.in/api?id=christine-chemali&icon=0&color=12)](https://visitcount.itsvg.in)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christine-chemali)
+[![](https://visitcount.itsvg.in/api?id=christine-chemali&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # 💻 TECH STACKS:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
