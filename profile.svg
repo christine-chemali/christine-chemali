@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 230" width="600" height="230" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 350" width="600" height="350" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -16,8 +16,7 @@
                     60% { clip: rect(5px, 600px, 20px, 0); }
                     80% { clip: rect(15px, 600px, 35px, 0); }
                     }
-                .title, .title1 {
-                    font-size: 3rem;
+                .title, .title1, .title2, .title3, .title4 {
                     animation: title 1s infinite;
                     text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA;
                     text-align: left;
@@ -27,17 +26,32 @@
                     }
                 .title {
                     margin-bottom: 0px;
+                    font-size: 3rem;
                     }
                 .title1 {
-                    margin-bottom: 10px;
+                     font-size: 2.8rem;
+                     margin-bottom: 0px;
+                }
+                .title2 {
+                     font-size: 2rem;
+                     margin-bottom: 0px;
+                }
+                .title3 {
+                     font-size: 1.5rem;
+                     margin-bottom: 0px;
+                }
+                .title4 {
+                    font-size: 1.3rem;
                 }
             </style>
             <div class='body'>
                 <div class='container'>
                     <section class="block">
                         <p class="title">HELLO!</p>
-                        <p class="title">I'm an enthusiastic</p>
-                        <p class="title1">and motivated aspiring developer bulding a strong</p>
+                        <p class="title1">I'm an enthusiastic</p>
+                        <p class="title2">and motivated aspiring developer bulding a strong foundation in programming and a keen interest in learning new technologies.</p>
+                        <p class="title3"> Currently honing skills in software languages/technologies and eager to apply knowledge in a real-world setting.</p> 
+                        <p class="title4"> Seeking an entry-level position to contribute to a dynamic team and grow professionally.</p>
                     </section>
                 </div>
             </div>

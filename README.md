@@ -13,12 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width: 100%; background: #000; border-radius: 10px; margin-bottom: 10px">
-  <a href="https://github.com/christine-chemali/christine-chemali/blame/main/profile.svg">
-    <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-  <p style="color: #F4E9E1; font-size: 2rem; text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA; text-align: left; padding-left: 10px; margin-left: 10px; margin-top: 0px;">foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages/technologies and eager to apply knowledge in a real-world setting.<br>Seeking an entry-level position to contribute to a dynamic team and grow professionally.</p>
-  <a style="font-size: 1.5rem; padding: 20px;" href="https://linkedin.com/in/christine-chemali"> LinkedIn </a><a style="font-size: 1.5rem; padding: 20px; " href="mailto:christine.chemali@laplateforme.io"> E-mail </a>
+<div style="width: 100%; background: #000; border-radius: 10px;">
+    <a href="https://github.com/christine-chemali/christine-chemali/blame/main/profile.svg">
+        <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+    </a>
+    <p align="center">
+      <a href="https://www.christine-chemali.fr/">PORTFOLIO</a> •
+      <a href="mailto:christine.chemali@laplateforme.io">E-MAIL</a> •
+      <a href="https://linkedin.com/in/christine-chemali">LINKEDIN</a>
+    </p>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=christine-chemali&icon=0&color=12)](https://visitcount.itsvg.in)
