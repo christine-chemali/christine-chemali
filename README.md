@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
- ## strong foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages - technologies and eager to apply knowledge in a real-world setting. <br>Seeking an entry-level position to contribute to a dynamic team and grow professionally.
+ ## foundation in programming and a keen interest in learning new technologies. Currently honing skills in software languages - technologies and eager to apply knowledge in a real-world setting. <br>Seeking an entry-level position to contribute to a dynamic team and grow professionally.
 
 [![](https://visitcount.itsvg.in/api?id=christine-chemali&icon=0&color=12)](https://visitcount.itsvg.in)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christine-chemali)
 
