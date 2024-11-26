@@ -22,30 +22,33 @@
                     padding-left: 10px;
                     margin-left: 10px;
                     margin-top: 0px;
+                    font-family: "segoe ui"
                     }
                 .title {
                     margin-bottom: 0px;
                     font-size: 3rem;
-                    line-height: 2rem;
+                    line-height: 2.1rem;
                     margin-top: 20px;
                     }
                 .title1 {
                      font-size: 2.8rem;
                      margin-bottom: 0px;
-                     line-height: 3rem;
+                     line-height: 2.6rem;
                 }
                 .title2 {
                      font-size: 2rem;
                      margin-bottom: 0px;
-                     line-height: 2rem;
+                     line-height: 1.9rem;
                      margin-top: 0px;
                 }
                 .title3 {
                      font-size: 1.5rem;
                      margin-bottom: 0px;
+                     line-height: 1.7rem;
                 }
                 .title4 {
                     font-size: 1.3rem;
+                    line-height: 1.4rem;
                 }
             </style>
             <div class='body'>
