@@ -10,26 +10,26 @@
                     background: #000;
                     color: #F4E9E1;
                     }
-                     @keyframes title {
-                        0%, 100% { clip: rect(0, 600px, 50px, 0); }
-                        20% { clip: rect(10px, 600px, 30px, 0); }
-                        40% { clip: rect(20px, 600px, 40px, 0); }
-                        60% { clip: rect(5px, 600px, 20px, 0); }
-                        80% { clip: rect(15px, 600px, 35px, 0); }
+                @keyframes title {
+                    0%, 100% { clip: rect(0, 600px, 50px, 0); }
+                    20% { clip: rect(10px, 600px, 30px, 0); }
+                    40% { clip: rect(20px, 600px, 40px, 0); }
+                    60% { clip: rect(5px, 600px, 20px, 0); }
+                    80% { clip: rect(15px, 600px, 35px, 0); }
                     }
-                    .title {
-                        font-size: 3rem;
-                        animation: glitch 1s infinite;
-                        text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA;
-                        text-align: left;
-                        margin: 10px;
+                .title {
+                    font-size: 3rem;
+                    animation: glitch 1s infinite;
+                    text-shadow: 1px 0 #FBE601, -1px 0 #63C3EA;
+                    text-align: left;
+                    padding: 10px;
                     }
             </style>
             <div class='body'>
                 <div class='container'>
                     <section class="block">
-                        <span class="title">HELLO!</span> 
-                        <span class="title">I'm an enthusiastic</span>
+                        <span class="title">HELLO!</span><br> 
+                        <span class="title">I'm an enthusiastic</span><br>
                         <span class="title">and motivated aspiring developer</span>
                     </section>
                 </div>
